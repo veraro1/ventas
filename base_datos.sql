@@ -1,6 +1,4 @@
--- Crear la base de datos
-CREATE DATABASE IF NOT EXISTS ventas_computacion;
-USE ventas_computacion;
+
 
 -- Tabla de usuarios
 CREATE TABLE usuarios (
